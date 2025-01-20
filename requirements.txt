@@ -10,5 +10,3 @@ python-dotenv
 pypdf
 langchain-community>=0.0.1
 streamlit-webrtc
-SpeechRecognition
-pyaudio
