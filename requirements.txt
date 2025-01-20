@@ -12,4 +12,3 @@ langchain-community>=0.0.1
 streamlit-webrtc
 SpeechRecognition
 pyaudio
---no-cache-dir
