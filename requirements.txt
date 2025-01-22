@@ -9,3 +9,5 @@ chromadb
 faiss-cpu
 docx2txt
 pandas
+pyaudio
+SpeechRecognition
